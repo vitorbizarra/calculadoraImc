@@ -19,14 +19,8 @@ body {
 }
 
 .container {
-  max-width: 380px;
-  max-height: 630px;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
+  max-width: 640px;
+  margin: 50px auto;
   background: #fff;
   padding: 20px;
   border-radius: 10px;
